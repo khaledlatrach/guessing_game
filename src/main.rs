@@ -35,18 +35,3 @@ fn main() {
         }
     }
 }
-
-//crate...crate is a collection of Rust source code files
-// prelude...
-//parentheses
-//brackets
-//Bind a variable
-// An associated function is a function that’s implemented on a type
-//The :: syntax in the ::new line indicates that new is an associated function of the String type
-//The purpose of these Result types is to encode error-handling information.
-//enum, which is a type that can be in one of multiple possible states. We call each possible state a variant.
-
-//cargo build ===> cargo.lock created for the first time
-// Then run cargo update to change the crate vesrion..
-//trait
-//insatiable لا يشبع
